@@ -1,1 +1,1 @@
-A presentation to the 2019 NCTCOG Regional GIS Meeting. [Slides are available here]()
+A presentation to the 2019 NCTCOG Regional GIS Meeting. [Slides are available here](http://bit.ly/growing-tribe)
